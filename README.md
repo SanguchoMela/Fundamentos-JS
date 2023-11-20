@@ -1,7 +1,7 @@
 # Fundamentos y Funciones en JavaScript
 
 ## Variables
-![image](https://github.com/SanguchoMela/Fundamentos-JS/assets/117743859/7c9d1256-9dce-4719-8084-f7060d12438c)
+![image](https://github.com/SanguchoMela/Fundamentos-JS/assets/117743859/28aee58f-3681-4f4c-95c1-9c4c455593df)
 
 ## Strings
 ![image](https://github.com/SanguchoMela/Fundamentos-JS/assets/117743859/467e5922-af4e-4a05-a103-8343c51365b6)
