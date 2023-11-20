@@ -135,6 +135,7 @@ const miApellido = function(){
 miApellido()
 
 console.log("\n- Funciones anónimas y autoejecutadas")
+
 console.log(
     function() {
         return `Nombre completo: ${miNombre()} ${miApellido()}`
@@ -142,6 +143,7 @@ console.log(
 ())
 
 console.log("\n- Argumentos y parámetros")
+
 function sumar (x,y){
     console.log(`Suma: ${x+y}`)
 }
@@ -156,12 +158,14 @@ let promedio = calcularPromedio(9,6,25,84);
 console.log(`Promedio: ${promedio}`);
 
 console.log("\n- Retorno de una función")
+
 function saludar(){
     return "Hola"
 }
 console.log(saludar())
 
 console.log("\n- Funciones flecha")
+
 let numeros = [1,2,3,4,5]
 let cuadrados = numeros.map(num => Math.pow(num,2))
 console.log(cuadrados)
